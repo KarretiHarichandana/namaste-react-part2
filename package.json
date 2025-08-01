@@ -1,0 +1,36 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "this is namaste react by akshay saini ",
+  "start": "parcel index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarretiHariChandana/namaste-react-part2.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "hari",
+    "chandana"
+  ],
+  "author": "hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarretiHariChandana/namaste-react-part2/issues"
+  },
+  "homepage": "https://github.com/KarretiHariChandana/namaste-react-part2#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
