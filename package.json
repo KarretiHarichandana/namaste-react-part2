@@ -2,9 +2,11 @@
   "name": "react1",
   "version": "1.0.0",
   "description": "this is namaste react by akshay saini ",
-  "start": "parcel index.js",
-  "scripts": {
-    "test": "jest "
+    "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+     "test": "jest "
+
   },
   "repository": {
     "type": "git",
